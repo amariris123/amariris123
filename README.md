@@ -2,7 +2,7 @@
 -  I’m interested in trafic,photo,science
 -  I’m currently learning ...
 -  I’m looking to collaborate on ...
--　How to reach me ...<a href="https://twitter.com/Tokyos_left_han">メインTwitter</a>,e-mail,aot
+-　How to reach me ...<a href="https://twitter.com/Tokyos_left_han">main-Twitter</a>,e-mail,aot
 
 github使うことはそんなにないはずです。
 <!---
